@@ -1,5 +1,3 @@
-
-from scipy import optimize as opt
 import numpy as np
 from scipy.optimize import minimize
 
